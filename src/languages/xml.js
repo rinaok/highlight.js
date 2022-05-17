@@ -84,7 +84,8 @@ export default function(hljs) {
       'xsl',
       'plist',
       'wsf',
-      'svg'
+      'svg',
+      'html preview'
     ],
     case_insensitive: true,
     unicodeRegex: true,
